@@ -39,3 +39,4 @@ luac.out
 *.x86_64
 *.hex
 
+api_key.txt
